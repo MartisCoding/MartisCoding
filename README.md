@@ -1,66 +1,101 @@
-<div align="center">
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:040A0C,55:041134,100:0B3D54&height=200&section=header&text=MartisCoding&fontSize=52&fontColor=EAFBFF&fontAlignY=35&desc=SYSTEMS%20-%20DATABASES%20-%20GRAPHICS&descSize=17&descAlignY=58&animation=fadeIn&stroke=13C9F9&strokeWidth=1"
+    alt="MartisCoding — Systems / Databases / Graphics"
+  />
+</p>
 
-# MartisCoding
-
-**Systems programming · Embedded software · Graphics**
-
-Building software to understand how things work beneath the abstractions.
-
-[![GitHub](https://img.shields.io/badge/GitHub-MartisCoding-0D1117?style=flat-square&logo=github&logoColor=13C9F9)](https://github.com/MartisCoding)
-
-</div>
+<p align="center">
+  <a href="https://github.com/MartisCoding">
+    <img src="https://img.shields.io/badge/GitHub-MartisCoding-0D1117?style=flat-square&logo=github&logoColor=13C9F9" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Graphics-0D1117?style=flat-square&labelColor=0D1117&color=13C9F9" alt="Focus: systems and graphics" />
+  <img src="https://img.shields.io/badge/Projects-Passion%20Projects-0D1117?style=flat-square&labelColor=0D1117&color=13C9F9" alt="Passion projects" />
+</p>
 
 ## About
 
-I'm a software developer interested in low-level programming, systems design, storage engines, and graphics APIs. I value explicit design, predictable behavior, and understanding what happens beneath the abstraction layer.
+I'm a software developer interested in how software works beneath its abstractions. I enjoy building things from the ground up — experimenting with database internals, exploring systems programming, and figuring out how graphics engines and backend services fit together.
 
-Currently exploring Rust and database internals while working on independent projects.
+I learn best by turning ideas into working prototypes, testing assumptions, and refining the design as I go. My personal projects are a way to explore topics in depth, not just use the tools built on top of them.
 
-## Projects
+```yaml
+interests:
+  - systems programming
+  - database engines and storage
+  - graphics and rendering
+  - backend architecture
+  - developer tools
+approach: "Learn by building. Understand the layers underneath."
+```
 
-- **OxydDB** — an experimental database engine written in Rust.
-- **Zirconium** — an independent project in development.
-- **Graphycs Reimagined** — a graphics-focused project in development.
-- **Duck** — a private project; more details to come.
+## Passion Projects
 
-Some projects are still private. Public repositories and documentation will be added as they become ready.
+Independent projects built out of curiosity and for exploring ideas beyond day-to-day development.
 
-## Tech stack
+### OxydDB <sub>(working title)</sub>
+
+![Passion project](https://img.shields.io/badge/TYPE-PASSION_PROJECT-041134?style=flat-square&labelColor=0D1117)
+![Active](https://img.shields.io/badge/STATUS-ACTIVE-13C9F9?style=flat-square&labelColor=0D1117)
+
+An attempt to build a database engine from scratch. **Actively developing** it and exploring the design decisions behind a database system.
+
+### osu!Track
+
+![Passion project](https://img.shields.io/badge/TYPE-PASSION_PROJECT-041134?style=flat-square&labelColor=0D1117)
+![On hold](https://img.shields.io/badge/STATUS-ON_HOLD-8B949E?style=flat-square&labelColor=0D1117)
+
+A project focused on analyzing replay files from *osu!*. Development is currently frozen.
+
+### Ferrum
+
+![Passion project](https://img.shields.io/badge/TYPE-PASSION_PROJECT-041134?style=flat-square&labelColor=0D1117)
+![On hold](https://img.shields.io/badge/STATUS-ON_HOLD-8B949E?style=flat-square&labelColor=0D1117)
+
+An attempt to create a graphics engine of my own. Currently on hold, but still on my list of projects to return to.
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,rust,java,kotlin,javascript,python,dotnet,git,docker,linux&perline=6" alt="C, C++, C#, Rust, Java, Kotlin, JavaScript, Python, .NET, Git, Docker, Linux" />
+  <img src="https://skillicons.dev/icons?i=cs,java,py,rust,c,cpp,go,js,ts,kotlin&perline=10&theme=dark" alt="C sharp, Java, Python, Rust, C, C plus plus, Go, JavaScript, TypeScript, Kotlin" />
 </p>
 
-**Graphics:** Vulkan · OpenGL  
-**Backend:** ASP.NET Core
+**Languages:** C#, Java, Python, Rust, C, C++, Go, JavaScript, TypeScript, Kotlin
 
-## GitHub activity
+**Backend & application:** .NET / ASP.NET Core, Spring, FastAPI, aiogram, Actix
 
-<div align="center">
+**Frontend & UI:** React, Vite, Next.js, Dioxus
+
+**Machine learning & notebooks:** PyTorch, Jupyter
+
+**Embedded & graphics:** Embassy, OpenGL, Vulkan
+
+**Databases:** PostgreSQL, SQLite, MongoDB
+
+**Tools & platforms:** Git, Docker, Linux, Bash
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,fastapi,pytorch,actix,react,vite,nextjs&perline=8&theme=dark" alt=".NET, Spring, FastAPI, PyTorch, Actix, React, Vite, Next.js" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,git,docker,linux,bash&perline=7&theme=dark" alt="PostgreSQL, SQLite, MongoDB, Git, Docker, Linux, Bash" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=MartisCoding&show_icons=true&hide_border=true&bg_color=040A0C&title_color=13C9F9&text_color=C9D1D9&icon_color=13C9F9" alt="GitHub statistics" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MartisCoding&layout=compact&hide_border=true&bg_color=040A0C&title_color=13C9F9&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MartisCoding&hide_border=true&background=040A0C&ring=13C9F9&fire=13C9F9&currStreakLabel=13C9F9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartisCoding&bg_color=040a0c&color=c9d1d9&line=13c9f9&point=13c9f9&area=true&hide_border=true" alt="GitHub activity graph" />
-</div>
-
-## Contribution map
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartisCoding/MartisCoding/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartisCoding/MartisCoding/output/github-snake.svg" />
-    <img alt="Snake animation of the GitHub contribution graph" src="https://raw.githubusercontent.com/MartisCoding/MartisCoding/output/github-snake.svg" />
-  </picture>
 </p>
 
-<details>
-  <summary>A small easter egg</summary>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartisCoding&bg_color=040a0c&color=c9d1d9&line=13c9f9&point=13c9f9&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
 
-  The low-level madness is closer than you think.
-</details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartisCoding/MartisCoding/output/github-snake-dark.svg" alt="Snake animation of the GitHub contribution graph" />
+</p>
+
+<p align="center">
+  <sub>Curiosity-driven development. One experiment at a time.</sub>
+</p>
