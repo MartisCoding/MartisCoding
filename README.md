@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:040A0C,55:041134,100:0B3D54&height=200&section=header&text=MartisCoding&fontSize=52&fontColor=EAFBFF&fontAlignY=35&desc=SYSTEMS%20-%20DATABASES%20-%20GRAPHICS&descSize=17&descAlignY=58&animation=fadeIn&stroke=13C9F9&strokeWidth=1"
-    alt="MartisCoding — Systems / Databases / Graphics"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:040A0C,55:041134,100:0B3D54&height=200&section=header&text=Morrigan&fontSize=52&fontColor=EAFBFF&fontAlignY=35&desc=SYSTEMS%20-%20DATABASES%20-%20GRAPHICS&descSize=17&descAlignY=58&animation=fadeIn&stroke=13C9F9&strokeWidth=1"
+    alt="Morrigan — Systems / Databases / Graphics"
   />
 </p>
 
